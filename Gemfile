@@ -30,6 +30,8 @@ gem 'spring',        group: :development
 # Support MySQL Databases
 gem 'mysql2', '~> 0.3.16'
 
+gem 'pg'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
